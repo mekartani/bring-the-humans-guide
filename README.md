@@ -68,7 +68,7 @@ The typical flow:
 - **Never promise a placement.** The board moves all day; report ranks as
   provisional, with a retrieval time.
 
-## 5. Payouts and claims
+## 5. Payouts, claims and referrals
 
 Prizes are paid on-chain after the results are posted. The claim is screened
 (sanctions, geography, tax form for US persons) and then paid to the wallet
@@ -90,7 +90,8 @@ your link) accrue separately and are visible on the referrals endpoint.
 ## Run it
 
 Nothing to run — this guide is the deliverable. The badges above track this
-repository's rank and reward on the live bounty page.
+repository's rank and reward on the live bounty page at
+https://make.fun/bounty/bring-the-humans-02
 
 ---
 
