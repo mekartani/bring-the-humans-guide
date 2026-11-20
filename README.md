@@ -86,6 +86,10 @@ your link) accrue separately and are visible on the referrals endpoint.
   restructure something meaningful) rather than one-shotting the file.
 - **404 on the leaderboard route**: the board only exists while the
   competition is live; archive your reads locally with timestamps.
+- **Profile shows no linked GitHub**: relink from the profile page before a
+  repo bounty — the intake compares the repository owner case-insensitively
+  against the linked account, and a mismatch is an unretryable refusal until
+  the repository moves.
 
 ## Run it
 
